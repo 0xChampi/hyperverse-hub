@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Shield, Brain, Zap, Target, Users, Eye } from 'lucide-react'
+import { Shield, Brain, Zap, Target, Users, Eye, Sparkles } from 'lucide-react'
 
 export default function HyperversePage() {
   return (
